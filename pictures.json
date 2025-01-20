@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "pictures": [
+        { "id": 1, "url": "https://ibb.co.com/cvRkb3B" },
+        { "id": 2, "url": "https://ibb.co.com/8KXcbGY" },
+        { "id": 3, "url": "https://ibb.co.com/fSM8m6h" },
+        { "id": 4, "url": "https://ibb.co.com/3WKw9rN" },
+        { "id": 5, "url": "https://ibb.co.com/z2DFhZ5" },
+        { "id": 6, "url": "https://ibb.co.com/KKHFgcg" },
+        { "id": 7, "url": "https://ibb.co.com/vsWVpLP" },
+        { "id": 8, "url": "https://ibb.co.com/pzKFDh2" },
+        { "id": 9, "url": "https://ibb.co.com/4VrtvsS" },
+        { "id": 10, "url": "https://ibb.co.com/RghgFcK" },
+        { "id": 11, "url": "https://ibb.co.com/LhXTyDF" }
+    ]
+}
